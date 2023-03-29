@@ -1,2 +1,1 @@
-# arcoooooooo
-aaaaaaaaaaaaaa
+# Plantilla del proyecto 26
